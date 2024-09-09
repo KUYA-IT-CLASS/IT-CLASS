@@ -1,3 +1,11 @@
+---
+name: 쿵야 스터디 PR
+about: 쿵야 스터디 완료 후 PR을 위한 템플릿입니다.
+title: "[스터디 완료] 쿵야 스터디 - "
+labels: study-complete
+assignees: ''
+---
+
 # 🐱 쿵야 스터디 PR
 
 ## 📚 스터디 정보
